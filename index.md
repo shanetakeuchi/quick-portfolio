@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[My Rails Sample Project](/shanetakeuchi/my_rails_sample_project)
+<img src="images/sample_rails_website.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
