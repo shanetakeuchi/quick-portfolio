@@ -2,11 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[My Rails Sample Project](/shanetakeuchi/my_rails_sample_project)
+[My Rails Sample Project](https://github.com/shanetakeuchi/my_rails_sample_project)
 <img src="images/sample_rails_website.png?raw=true"/>
 
+<!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -26,7 +27,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+ -->
 
 
 
