@@ -1,10 +1,12 @@
 title: Shane Takeuchi # your name (or website title) here
-logo: "/images/Sample_User_Icon.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Grinnell College Computer Science Major (2018-2022)
+  
+  Currently a computer science major at Grinnell College. I am expecting to graduate in 2022.
+  I have a general interest in software engineering. I have experience in Python, C, Java, and Ruby.
+  
   <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/shane-takeuchi-767952184/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
